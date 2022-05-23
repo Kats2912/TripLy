@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943048055722",
+    "project_id": "triply-92a1a",
+    "storage_bucket": "triply-92a1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943048055722:android:4399a5967726f440b9e9d3",
+        "android_client_info": {
+          "package_name": "com.example.trip_lo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943048055722-oofkvnflr6jls863me8fdvnbcf6qr16v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuk_qn-EYEE0hdymDNnGyQGAQeA9ojjnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943048055722-oofkvnflr6jls863me8fdvnbcf6qr16v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
